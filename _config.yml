@@ -1,8 +1,8 @@
 # Site settings
-title: REKKVERK
+title: "Decor49 Террасные и балконные ограждения"
 email: example@domain.com
 url: http://dinershtein.com/norway/
-description: "Eksklusive rekkverk av edle tresorter med dekorative metall paneler"
+description: "Террасные и балконные ограждения"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Eksklusive rekkverk
+footer: 'Террасные и балконные ограждения'
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
